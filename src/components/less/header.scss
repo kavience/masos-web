@@ -1,0 +1,56 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+
+  height: 25px;
+  padding: 0 10px;
+
+  background: rgba($color: #000000, $alpha: 0.2);
+  color: white;
+}
+
+.header-left {
+  display: flex;
+
+  &_action {
+    margin: auto 10px;
+  }
+
+  &_logo {
+    img {
+      margin-top: 2px;
+      height: 32px;
+    }
+  }
+
+  &_finder {
+    font-weight: 600;
+  }
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+
+  &_action {
+    padding: 0 10px;
+
+    img {
+      height: 20px;
+    }
+  }
+
+  &_battery {
+    img {
+      height: 25px;
+    }
+  }
+
+  &_siri {
+    img {
+      height: 15px;
+    }
+  }
+}
