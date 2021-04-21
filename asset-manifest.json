@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d5d0c80.chunk.css",
+    "main.js": "/static/js/main.891db2fd.chunk.js",
+    "main.js.map": "/static/js/main.891db2fd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7589159f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7589159f.js.map",
+    "static/js/2.10ce86c4.chunk.js": "/static/js/2.10ce86c4.chunk.js",
+    "static/js/2.10ce86c4.chunk.js.map": "/static/js/2.10ce86c4.chunk.js.map",
+    "static/js/3.b6c2bf65.chunk.js": "/static/js/3.b6c2bf65.chunk.js",
+    "static/js/3.b6c2bf65.chunk.js.map": "/static/js/3.b6c2bf65.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6d5d0c80.chunk.css.map": "/static/css/main.6d5d0c80.chunk.css.map",
+    "static/js/2.10ce86c4.chunk.js.LICENSE.txt": "/static/js/2.10ce86c4.chunk.js.LICENSE.txt",
+    "static/media/04_tv+.9a3b3abd.png": "/static/media/04_tv+.9a3b3abd.png",
+    "static/media/07_terminal.433a3dc6.png": "/static/media/07_terminal.433a3dc6.png",
+    "static/media/10_siri.5cc8cec1.png": "/static/media/10_siri.5cc8cec1.png",
+    "static/media/15_safari.e6c609a1.png": "/static/media/15_safari.e6c609a1.png",
+    "static/media/18_preview.6e85ea24.png": "/static/media/18_preview.6e85ea24.png",
+    "static/media/23_notes.1c0b888b.png": "/static/media/23_notes.1c0b888b.png",
+    "static/media/24_music.7a9a4c25.png": "/static/media/24_music.7a9a4c25.png",
+    "static/media/28_maps.2871b50e.png": "/static/media/28_maps.2871b50e.png",
+    "static/media/29_mail.98b0529e.png": "/static/media/29_mail.98b0529e.png",
+    "static/media/37_finder.9125b329.png": "/static/media/37_finder.9125b329.png",
+    "static/media/45_facetime.6942c72c.png": "/static/media/45_facetime.6942c72c.png",
+    "static/media/50_contacts.b3704a9a.png": "/static/media/50_contacts.b3704a9a.png",
+    "static/media/56_calculator.51fa378c.png": "/static/media/56_calculator.51fa378c.png",
+    "static/media/63_appstore.e3e52ca2.png": "/static/media/63_appstore.e3e52ca2.png",
+    "static/media/apple.61bf5a8f.svg": "/static/media/apple.61bf5a8f.svg",
+    "static/media/battery.3ccd19ed.svg": "/static/media/battery.3ccd19ed.svg",
+    "static/media/chrome.bca174ee.png": "/static/media/chrome.bca174ee.png",
+    "static/media/index.scss": "/static/media/dome.6cdc41ca.jpg",
+    "static/media/volume.56f4c2e1.svg": "/static/media/volume.56f4c2e1.svg",
+    "static/media/wifi.bac7d425.svg": "/static/media/wifi.bac7d425.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7589159f.js",
+    "static/js/2.10ce86c4.chunk.js",
+    "static/css/main.6d5d0c80.chunk.css",
+    "static/js/main.891db2fd.chunk.js"
+  ]
+}
