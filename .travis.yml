@@ -11,6 +11,8 @@ jobs:
     - yarn changelog
     - cp CHANGELOG.md build/CHANGELOG.md
     - mv build/ /tmp/build
+  branches:
+    - master
   deploy:
     provider: pages
     local_dir: /tmp/build
@@ -18,9 +20,7 @@ jobs:
     github_token: "$GITHUB_TOKEN"
     keep_history: true
     on:
-      branch: 
-        only:
-          - master
+      branch: master
   after_deploy:
     - git push --follow-tags origin master
 env:
