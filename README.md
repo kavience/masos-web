@@ -12,6 +12,27 @@ yarn start
 npm run start
 ```
 
+## commit type
+
+```git
+type(category): description [flag]
+```
+
+The `type` must be one of the followings:
+* `breaking` (Breaking Changes)
+* `build` (Build System / Dependencies)
+* `ci` (Continuous Integration)
+* `chore` (Chores)
+* `docs` (Documentation Changes)
+* `feat` (New Features)
+* `fix` (Bug Fixes)
+* `other` (Other Changes)
+* `perf` (Performance Improvements)
+* `refactor` (Refactors)
+* `revert` (Reverts)
+* `style` (Code Style Changes)
+* `test` (Tests)
+* 
 ## demo
 
 [View demo](https://kavience.github.io/masos-web)
