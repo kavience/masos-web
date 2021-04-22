@@ -5,6 +5,7 @@ jobs:
   install:
     - yarn install
   script:
+    - yarn global add conventional-changelog-cli standard-version
     - yarn build
     - yarn release
     - yarn changelog
